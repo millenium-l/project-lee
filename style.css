@@ -1,0 +1,26 @@
+.body{
+   background-color: blue;
+}
+.main{
+    border: 5px solid red;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 0px;
+    background-color: yellow;
+    font-family: sans-serif;
+    padding: 20px;
+
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+.highlight{
+    color: red;
+}
+
+.logo{
+    padding-left: 200px;
+}
